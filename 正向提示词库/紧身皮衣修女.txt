@@ -1,0 +1,1 @@
+masterpiece,best quality,(cityscape:1.4),(street:1.4),(outdoors:1.3),(photorealistic:1.4),(ultra detailed:1.3),unity 8k wallpaper,1girl,solo,long hair,jewelry,latex bodysuit,<lora:add_detail:1>,latex gloves,necklace,nun,<lora:heserujiaoyi-000008:0.65>,

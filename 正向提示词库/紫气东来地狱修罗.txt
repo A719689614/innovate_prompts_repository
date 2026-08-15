@@ -1,0 +1,1 @@
+(masterpiece, best quality:1.4),(absurdres, highres, ultra detailed:1.2),,mecha,(using dark magic:1.4),(purple magic:1.1),pink magic,playful illustrations,(fractal art:1.1),imaginative overlays,artistic fusion,(fantastical scenes:1.1),evocative narratives,(striking visuals:1.1),,upper body,<lora:kVoidEnergy-000001:0.8>,V0id3nergy,

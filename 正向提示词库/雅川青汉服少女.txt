@@ -1,0 +1,3 @@
+hanfu,1girl\(solo,hair\(black long hair,hair ornament,hair stick,hair flower,single hair bun\),realistic,clothes\(chinese dress,long sleeves,white,bare shoulders\),flower\(hydrangea,red flower,green leaf,on the hand and head\),smile,(look at viewer,outdoor,upper body):1.5\),
+Background\(night,(full moon):1.5,chinese ancient buildings,courtyards,mysterious pavilions,forest\),
+masterpiece,best quality,unreal engine 5 rendering,movie light,movie lens,movie special effects,detailed details,HDR,UHD,8K,CG wallpaper

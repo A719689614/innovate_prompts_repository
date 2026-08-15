@@ -1,0 +1,1 @@
+cybercar,future technology, futurism, a high-tech sports car in a nanopunk setting, neon lighting orange and yellow, futuristic world,Realistic, cinematic,depth of field, Strong blur,<lora:UNIT-CybercarX-0013:0.5>

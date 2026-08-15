@@ -1,0 +1,1 @@
+<lora:2_动物模型丨柯基 MG_CORGI_V1.0:0.6>,<lora:平涂赛璐璐-Flat paint style Lora:0.6>,mangguo,Flat paint style,no humans,, masterpiece,best quality,highly detailed,Amazing,finely detail,extremely detailed CG unity 8k wallpaper,score:>=60,
